@@ -1,0 +1,66 @@
+!fonts
+
+URxvt.font: -adobe-courier-medium-r-normal--11-80-100-100-m-60-iso10646-1
+URxvt.boldFont: -adobe-courier-medium-r-normal--11-80-100-100-m-60-iso10646-1
+
+! COLORSCHEME
+
+*.cursorColor: #A1A2A3
+!*.mouse_background:#121314
+!*.mouse_foreground: #F9F9F9
+*.highlight: #191A1C
+!*.border: #121314
+!*.underline: #303030
+*.background: #222222
+*.foreground: #FFFFFF
+
+!https://terminal.sexy/
+
+! black
+*.color0:       #0fe27c
+*.color8:       #0fe27c
+
+! red
+*.color1:       #ac4142
+*.color9:       #ac4142
+
+! green
+*.color2:       #404040
+*.color10:      #404040
+
+! yellow
+*.color3:       #fbe630
+*.color11:      #fbe630
+
+! blue
+*.color4:       #0fe27c
+*.color12:      #0fe27c
+
+! magenta
+*.color5:       #db54bf
+*.color13:      #db54bf
+
+! cyan
+*.color6:       #358678
+*.color14:      #358678
+
+! white
+*.color7:       #ffffff
+*.color15:      #ffffff
+
+
+! THEMING
+
+! urxvt settings
+URxvt.scrollBar: 0
+URxvt.internalBorder: 15
+URxvt.geometry: 68x28
+
+! x11 xursor
+Xcursor.theme: DMZ-White
+
+! urxvt settings
+!URxvt.scrollBar: 0
+!URxvt.internalBorder: 15
+!URxvt.geometry: 68x28
+
